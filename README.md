@@ -1,6 +1,6 @@
 # Improfestival "Tilt" 2014 homepage
 
-This is the homepage for the 3rd international improv festival Tilt (2014).
+This is the homepage for the 2nd international improv festival Tilt (2014).
 
 ## Requirements
 
